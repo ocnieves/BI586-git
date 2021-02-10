@@ -1,7 +1,6 @@
 # BI586-git
 Git exploration using RStudio
 
-
 ## My notes
 
 1. Edit and save files
